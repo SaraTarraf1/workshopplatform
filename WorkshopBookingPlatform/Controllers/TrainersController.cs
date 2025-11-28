@@ -9,6 +9,7 @@ using WorkshopBookingPlatform.Models;
 
 namespace WorkshopBookingPlatform.Controllers
 {
+
     public class TrainersController : Controller
     {
         private readonly ApplicationDbContext _context;
